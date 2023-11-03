@@ -1,0 +1,73 @@
+@import url(https://use.fontawesome.com/releases/v6.4.2/css/all.css);
+
+.badge{
+    display: inline-block;
+    width: 6.4rem;
+    height: 6.4rem;
+    margin: 1.5rem;
+    border-radius: 20%;
+    box-shadow: 8px 10px 12px 3px #0000006e;
+}
+
+.rounded{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background: white;
+    margin: 15px 16px auto;
+    border-radius: 30%;
+    box-shadow: 8px 8px 8px 2px #0000003b;
+}
+
+.rounded i.fa-brands{
+    font-size: 2.8em;
+    margin-top: 16px;
+}
+
+.rounded i.fa-brands::before{
+    margin-left: 14px;
+}
+
+
+.orange{
+    background: darkorange;
+    color: orange;
+}
+
+.blue{
+    background: dodgerblue;
+    color: deepskyblue;
+}
+
+.gold{
+    background: gold;
+    color: gold;
+}
+
+.purple{
+    background: mediumpurple;
+    color: slategray;
+}
+
+.green{
+    background: yellowgreen;
+    color: darkslategray;
+}
+
+.steel{
+    background: steelblue;
+    color: gold;
+}
+
+.pink{
+    background: hotpink;
+    color: palevioletred;
+}
+
+.gainsboro{
+    background: gainsboro;
+    color: orangered;
+}
+
+
+
